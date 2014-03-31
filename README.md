@@ -1,0 +1,4 @@
+VacancyCrawler
+==============
+
+School Project; Crawler.
