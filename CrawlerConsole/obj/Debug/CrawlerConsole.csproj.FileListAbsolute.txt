@@ -1,0 +1,60 @@
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe.config
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.pdb
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.exe
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.pdb
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Jeroen\Documents\vacaturecrawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe.config
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.pdb
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\mscorlib.dll
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normidna.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfc.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfd.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfkc.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfkd.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.exe
+C:\Users\Ivan Ivanov\Desktop\Applications Android\non-android-crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.pdb
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe.config
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.pdb
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.exe
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.pdb
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe.config
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.pdb
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\mscorlib.dll
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\MySql.Data.dll
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normidna.nlp
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfc.nlp
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfd.nlp
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfkc.nlp
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfkd.nlp
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.exe
+C:\Users\Ivan Ivanov\Desktop\Folder  for Hogeschool Rotterdam\Jaar 2\kwartaal 2\Project 5-6\C# Crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.pdb
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe.config
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.exe
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.pdb
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.exe
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\CrawlerConsole.pdb
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\mscorlib.dll
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\MySql.Data.dll
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normidna.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfc.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfd.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfkc.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\bin\Debug\normnfkd.nlp
+C:\Users\Ivan Ivanov\Desktop\Applications Android\C# Crawler\VacatureCrawler\CrawlerConsole\obj\Debug\CrawlerConsole.csprojResolveAssemblyReference.cache

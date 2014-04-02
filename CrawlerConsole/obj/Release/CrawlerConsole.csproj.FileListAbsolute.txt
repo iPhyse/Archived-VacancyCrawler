@@ -1,0 +1,10 @@
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Release\CrawlerConsole.exe.config
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Release\CrawlerConsole.exe
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Release\CrawlerConsole.pdb
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Release\HtmlAgilityPack.dll
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Release\MySql.Data.dll
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\bin\Release\HtmlAgilityPack.xml
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\obj\Release\CrawlerConsole.exe
+C:\Users\Rick0rt\Desktop\Project_vacature_crawler\VacatureCrawler\CrawlerConsole\obj\Release\CrawlerConsole.pdb
